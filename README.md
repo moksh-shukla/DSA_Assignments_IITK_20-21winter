@@ -1,3 +1,6 @@
-## ESO207: Data Structures & Algorithms Assignments
-This repo contains the assignments and solutions for ESO207 **2020-21 winter** offering at IIT Kanpur.
+## ESO207: Data Structures & Algorithms
+This repository contains the submissions for the assignments taken in the **2020-21 Spring** offering of the course [ESO207](https://www.cse.iitk.ac.in/pages/ESO207.html), at Indian Institute of Technology, Kanpur.
 There are 3 Programming and 3 Theoretical Assignments present in their corresponding folders.
+
+## Course Instructor
+ - [Raghunath Tewari](https://www.cse.iitk.ac.in/users/rtewari/)
